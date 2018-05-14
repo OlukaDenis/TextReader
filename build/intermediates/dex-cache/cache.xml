@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android studio projects\TextReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android studio projects\TextReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e86673b1f687cc9813995ed87c94186ce25bb71b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android studio projects\TextReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37b7baeb860b1f6cd518f5217708bac656cbb567">
+        <dex dex="E:\Android studio projects\TextReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ea6164a26e6e80f6491582755508a9822ff85fdd\classes.dex" />
+    </item>
+
+</items>

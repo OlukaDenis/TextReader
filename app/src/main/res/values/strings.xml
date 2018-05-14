@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Reader</string>
+    <string name="topthing">Enter your text then click the Read Text Button to Listen</string>
+</resources>
